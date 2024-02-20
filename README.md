@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @seungisanrin
-- 👀 I’m interested in data analysis and data science, using R and Python
-- 🌱 I’m currently learning the R language and Python
-- 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me via [email](mailto:seungisanrin@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I studied chemical engineering, and now I am working on becoming a data professional.
+<div align="center">
+<b>
+Hello World!👋🏽 I'm Seun, an aspiring Data Analyst and Energy Professional
+</b>
+</div>
+<br />
 
+<p align="center"><a href="https://www.linkedin.com/in/seun-gisanrin/">
+<img src="https://github.com/seungisanrin/seungisanrin/assets/159424518/46dbcca9-f9e1-4ee7-af05-40317813b69e"
+    width = 35
+    height = 35/></a>
+</p>
 <!---
 seungisanrin/seungisanrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
