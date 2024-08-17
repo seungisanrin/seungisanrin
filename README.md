@@ -1,6 +1,6 @@
 <div align="center">
 <b>
-Hello World!👋🏽 I'm Seun, an aspiring Data Analyst and Energy Professional
+Hello World!👋🏽 I'm Seun, an aspiring Data Analytics Professional
 </b>
 </div>
 <br />
